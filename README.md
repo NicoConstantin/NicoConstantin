@@ -1,8 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet"> 
-![Nico Constantin , Full Stack Developer](https://github.com/NicoConstantin/NicoConstantin/blob/master/Assets/header.gif)
-<h1>Bienvenid@! :smile:</h1>
+
 <style>
 .img-top {
     display:flex;
@@ -19,14 +18,16 @@
     align-items:center;
 }
 .img{
-    width:10%;
-    height:10%
+    width:10rem;
+    height:10rem
 }
 .content{
     font-family: 'Open Sans', sans-serif;
 }
 </style>
 
+![Nico Constantin , Full Stack Developer](https://github.com/NicoConstantin/NicoConstantin/blob/master/Assets/header.gif)
+<h1>Bienvenid@! :smile:</h1>
 ******
 # Tecnologías :star:
 <div class=img-top>
