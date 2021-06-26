@@ -1,48 +1,23 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet"> 
-
-<style>
-.img-top {
-    display:flex;
-    justify-content:space-around;
-    margin-top: 2rem;
-    padding-bottom: 2rem;
-    align-items:center;
-}
-.img-bottom {
-  display:flex;
-    justify-content:space-around;
-    padding-top: 2rem;
-    margin-bottom: 4rem;
-    align-items:center;
-}
-.img{
-    width:10rem;
-    height:10rem
-}
-.content{
-    font-family: 'Open Sans', sans-serif;
-}
-</style>
-
 ![Nico Constantin , Full Stack Developer](https://github.com/NicoConstantin/NicoConstantin/blob/master/Assets/header.gif)
+
 <h1>Bienvenid@! :smile:</h1>
+
 ******
+
 # Tecnologías :star:
 <div class=img-top>
-<img  class=img alt=javascript src=https://i.ibb.co/vxZcqxs/Dise-o-sin-t-tulo-9.png />
-<img  class=img alt=css src=https://i.ibb.co/7khWBK8/Dise-o-sin-t-tulo-8.png />
-<img  class=img alt=html src=https://i.ibb.co/B2CJCXx/Dise-o-sin-t-tulo-4.png />
-<img  class=img alt=react src=https://i.ibb.co/gyYwYcY/Dise-o-sin-t-tulo-2.png />
-<img  class=img alt=redux src=https://i.ibb.co/8NJnYHX/Dise-o-sin-t-tulo-7.png />
+<img  class=img width=10% alt=javascript src=https://i.ibb.co/vxZcqxs/Dise-o-sin-t-tulo-9.png />
+<img  class=img width=10% alt=css src=https://i.ibb.co/7khWBK8/Dise-o-sin-t-tulo-8.png />
+<img  class=img width=10% alt=html src=https://i.ibb.co/B2CJCXx/Dise-o-sin-t-tulo-4.png />
+<img  class=img width=10% alt=react src=https://i.ibb.co/gyYwYcY/Dise-o-sin-t-tulo-2.png />
+<img  class=img width=10% alt=redux src=https://i.ibb.co/8NJnYHX/Dise-o-sin-t-tulo-7.png />
 </div>
 <div class=img-bottom>
-<img  class=img alt=firebase src=https://i.ibb.co/DpY24j2/Dise-o-sin-t-tulo-1.png />
-<img  class=img alt=node src=https://i.ibb.co/9Wxdzmf/Dise-o-sin-t-tulo-6.png />
-<img  class=img alt=express src=https://i.ibb.co/Lg8mKWG/Dise-o-sin-t-tulo-10.png />
-<img  class=img alt=postgresql src=https://i.ibb.co/PMg8Btn/Dise-o-sin-t-tulo-3.png />
-<img  class=img alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
+<img  class=img width=10% alt=firebase src=https://i.ibb.co/DpY24j2/Dise-o-sin-t-tulo-1.png />
+<img  class=img width=10% alt=node src=https://i.ibb.co/9Wxdzmf/Dise-o-sin-t-tulo-6.png />
+<img  class=img width=10% alt=express src=https://i.ibb.co/Lg8mKWG/Dise-o-sin-t-tulo-10.png />
+<img  class=img width=10% alt=postgresql src=https://i.ibb.co/PMg8Btn/Dise-o-sin-t-tulo-3.png />
+<img  class=img width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
 
 <div class=content>
