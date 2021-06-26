@@ -5,14 +5,14 @@
 * * * 
 
 # Tecnologías :star:
-<div  style="display: flex; justify-content: space-around">
+<div  style="text-align:center">
 <img  class=img width=10% alt=javascript src=https://i.ibb.co/vxZcqxs/Dise-o-sin-t-tulo-9.png />
 <img  class=img width=10% alt=css src=https://i.ibb.co/7khWBK8/Dise-o-sin-t-tulo-8.png />
 <img  class=img width=10% alt=html src=https://i.ibb.co/B2CJCXx/Dise-o-sin-t-tulo-4.png />
 <img  class=img width=10% alt=react src=https://i.ibb.co/gyYwYcY/Dise-o-sin-t-tulo-2.png />
 <img  class=img width=10% alt=redux src=https://i.ibb.co/8NJnYHX/Dise-o-sin-t-tulo-7.png />
 </div>
-<div  style="display: flex; justify-content: space-around">
+<div  style="text-align:center">
 <img  class=img width=10% alt=firebase src=https://i.ibb.co/DpY24j2/Dise-o-sin-t-tulo-1.png />
 <img  class=img width=10% alt=node src=https://i.ibb.co/9Wxdzmf/Dise-o-sin-t-tulo-6.png />
 <img  class=img width=10% alt=express src=https://i.ibb.co/Lg8mKWG/Dise-o-sin-t-tulo-10.png />
