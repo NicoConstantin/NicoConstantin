@@ -3,8 +3,7 @@
 
 ******
 ## Tecnologías
-<img  width=10% src=https://i.ibb.co/4TYRMHX/Dise-o-sin-t-tulo-2.png />
-<img  width=10% src=https://i.ibb.co/R0TRD6N/Dise-o-sin-t-tulo-4.png />
+<img  width=10% src=https://i.ibb.co/4TYRMHX/Dise-o-sin-t-tulo-2.png /><img  width=10% src=https://i.ibb.co/R0TRD6N/Dise-o-sin-t-tulo-4.png />
 <img  width=10% src=https://i.ibb.co/rQdRk3p/58482ee4cef1014c0b5e4a75.png />
 <img  width=10% src=https://i.ibb.co/PWYb4jS/5848309bcef1014c0b5e4a9a.png />
 <img  width=10% src=https://i.ibb.co/k3ZLzRj/CSS-Logo.png />
