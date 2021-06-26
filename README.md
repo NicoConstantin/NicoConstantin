@@ -19,7 +19,8 @@
     align-items:center;
 }
 .img{
-    width:10%
+    width:10%;
+    height:10%
 }
 .content{
     font-family: 'Open Sans', sans-serif;
@@ -42,7 +43,9 @@
 <img  class=img alt=postgresql src=https://i.ibb.co/PMg8Btn/Dise-o-sin-t-tulo-3.png />
 <img  class=img alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
+
 <div class=content>
+
 ### Quien soy?
 Hola! Soy Nico :wave:, tengo 25 años, soy de Córdoba, Argentina. Apasionado por el por qué de las cosas.
 
@@ -55,4 +58,5 @@ Me encuentro finalizando el cursado de un bootcamp intensivo de programación al
 ### Hacia donde voy?
 En este punto siento que puedo con todo, sin embargo se que hay mucho mas conocimiento por adquirir y eso me entusiasma! Busco un proyecto u empresa donde pueda seguir desarrollandome y aportando valor desde mis conocimientos y experiencias.<br>
 Te invito a ver alguno de los ultimos proyectos en los que estuve trabajando!  :point_down:
+
 </div>
