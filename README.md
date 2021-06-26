@@ -20,13 +20,13 @@
 <img  class=img width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
 
-<div class=content>
+<div class=content style="font-family:open sans; font-size:1.5rem">
 
 ### Quien soy?
 Hola! Soy Nico :wave:, tengo 25 años, soy de Córdoba, Argentina. Apasionado por el por qué de las cosas.
 
 ### De donde vengo?
-Trabaje 4 años en una bicicleteria :bike: donde crecí junto con el negocio y pase de ser ayudante mecánico a estar encargado del área de venta online, venta mayorista, atención post-venta entre otras actividades, siempre buscando poder trabajar de forma mas prolija, ordenada e intentando optimizar todo lo que estuviera a mi alcance.
+Trabaje 4 años en una bicicleteria :bike: donde crecí junto con el negocio y pase de ser ayudante mecánico a estar encargado del área de venta online, venta mayorista, atención post-venta entre otras actividades, siempre buscando poder trabajar de forma mas prolija, ordenada e intentando optimizar todo lo que estuviera a mi alcance.<br>
 Busqué mi futuro por más de 5 años en el sistema educativo tradicional, pase por varias carreras de ciencias exactas, siempre con buen desempeño, pero no encontraba esa chispa...<br>
 En este año 2021, decidí dar un giro a mi vida.<br>
 Me encuentro finalizando el cursado de un ***bootcamp intensivo de programación*** al cual le dedique aproximadamente 12h diarias los últimos 4 meses, pase de no saber siquiera que era la programación a poder desarrollar lo que mi imaginación me permita.
