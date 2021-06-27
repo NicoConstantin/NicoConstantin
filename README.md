@@ -1,8 +1,7 @@
 ![Nico Constantin , Full Stack Developer](https://github.com/NicoConstantin/NicoConstantin/blob/master/Assets/header.gif)
 
-<h1>Bienvenid@! :smile:</h1>
+# Bienvenid@! :smile:
 
-* * * 
 
 # Tecnologías :star:
 <div  style="text-align:center">
@@ -23,11 +22,11 @@
 <div class=content style="font-family:open sans; font-size:1.5rem">
 
 ### Quien soy?
-Hola! Soy Nico :wave:, tengo 25 años, soy de Córdoba, Argentina. Apasionado por el por qué de las cosas.
+**Hola!** Soy Nico :wave:, tengo 25 años, soy de Córdoba, Argentina. Apasionado por descubrir el por qué de las cosas, .
 
 ### De donde vengo?
 Trabaje 4 años en una bicicleteria :bike: donde crecí junto con el negocio y pase de ser ayudante mecánico a estar encargado del área de venta online, venta mayorista, atención post-venta entre otras actividades, siempre buscando poder trabajar de forma mas prolija, ordenada e intentando optimizar todo lo que estuviera a mi alcance.<br>
-Busqué mi futuro por más de 5 años en el sistema educativo tradicional, pase por varias carreras de ciencias exactas, siempre con buen desempeño, pero no encontraba esa chispa...<br>
+Busqué mi futuro por más de 5 años en el sistema educativo tradicional, pase por varias carreras de ciencias exactas, siempre con buen desempeño, pero no encontraba esa chispa...<br><br>
 En este año 2021, decidí dar un giro a mi vida.<br>
 Me encuentro finalizando el cursado de un ***bootcamp intensivo de programación*** al cual le dedique aproximadamente 12h diarias los últimos 4 meses, pase de no saber siquiera que era la programación a poder desarrollar lo que mi imaginación me permita.
 
