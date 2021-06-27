@@ -19,7 +19,7 @@
 <img  class=img width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
 
-<div class=content style="font-family:open sans; font-size:1.5rem">
+<div style="font-family:open sans; font-size:1.5rem">
 
 ### Quien soy?
 **Hola!** Soy Nico :wave:, tengo 25 años, soy de Córdoba, Argentina. Apasionado por descubrir el por qué de las cosas, .
