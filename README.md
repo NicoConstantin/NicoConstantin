@@ -40,5 +40,14 @@
 ## Hacia donde voy?
 ### En este punto siento que puedo con todo, sin embargo se que hay mucho mas conocimiento por adquirir y eso me entusiasma! Busco un proyecto u empresa donde pueda seguir desarrollandome y *aportando valor* desde mi conocimiento y experiencia.<br>
 ### Te invito a ver alguno de los ultimos proyectos en los que estuve trabajando!  :point_down:
+<div align="center">
 
+## Pokeweb
+
+<video src="https://vimeo.com/568125996" controls></video>
+
+</div>
+
+### Desarrollo de una web de Pokemon utilizando React, Redux, CSS modules, NodeJS, Express, Sequelize, PostgreSQL. <br>
+### El objetivo era consumir información de una API y de una base de datos propia pudiendo filtrar,ordenar y paginar la información de forma correcta, realizando asi trabajo de base de datos, backend y frontend.
 </div>
