@@ -1,6 +1,6 @@
 ![Nico Constantin , Full Stack Developer](https://github.com/NicoConstantin/NicoConstantin/blob/master/Assets/header.gif)
 
-# Bienvenid@! :smile:
+# Bienvenid@! :smile: 
 
 
 # Tecnologías :star:
@@ -19,6 +19,11 @@
 <img  class=img width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
 
+## :paperclip: Contacto:<span >
+<a href="https://www.linkedin.com/in/nico-constantin/" ><img width="5%" src="https://i.ibb.co/ZS07Ds5/Dise-o-sin-t-tulo-12.png"> &nbsp;
+<a href="mailto:nicoconstantin11@gmail.com" ><img width="5%" src="https://i.ibb.co/gzN6KSy/Dise-o-sin-t-tulo-11.png">
+</span>
+
 <div style="font-family: 'Open Sans'">
 
 ## Quien soy?
@@ -35,3 +40,8 @@
 ### Te invito a ver alguno de los ultimos proyectos en los que estuve trabajando!  :point_down:
 
 </div>
+
+https://ibb.co/bFkD9hT
+https://ibb.co/181bWrZ
+
+https://ibb.co/NrrhMx4
