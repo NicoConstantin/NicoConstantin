@@ -19,9 +19,11 @@
 <img  class=img width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
 </div>
 
-## :paperclip: Contacto:<span >
-<a href="https://www.linkedin.com/in/nico-constantin/" ><img width="5%" src="https://i.ibb.co/ZS07Ds5/Dise-o-sin-t-tulo-12.png"> &nbsp;
-<a href="mailto:nicoconstantin11@gmail.com" ><img width="5%" src="https://i.ibb.co/gzN6KSy/Dise-o-sin-t-tulo-11.png">
+## :paperclip: Contacto:
+<span >
+<a href="https://www.linkedin.com/in/nico-constantin/" ><img width="4.5%" src="https://i.ibb.co/gFzThH7/Dise-o-sin-t-tulo-15.png"> &nbsp;
+<a href="mailto:nicoconstantin11@gmail.com" ><img width="5%" src="https://i.ibb.co/CVx0ykg/Dise-o-sin-t-tulo-17.png">
+<a href="https://i.ibb.co/pQQDS2m/Nicolas-Constantin-CV-Full-Stack-Developer.jpg" ><img width="5%" src="https://i.ibb.co/RScrMCW/Dise-o-sin-t-tulo-13.png">
 </span>
 
 <div style="font-family: 'Open Sans'">
@@ -33,15 +35,10 @@
 ### Trabaje 4 años en una bicicleteria :bike: donde crecí junto con el negocio y pase de ser ayudante mecánico a estar encargado del área de venta online, venta mayorista, atención post-venta entre otras actividades, siempre buscando poder trabajar de forma mas prolija, ordenada e intentando optimizar todo lo que estuviera a mi alcance.<br>
 ### Busqué mi futuro por más de 5 años en el sistema educativo tradicional, pase por varias carreras de ciencias exactas, siempre con buen desempeño, pero no encontraba esa chispa...<br><br>
 ### En este año 2021, decidí dar un giro a mi vida.<br>
-### Me encuentro finalizando el cursado de un ***bootcamp intensivo de programación***:computer: al cual le dedique aproximadamente 12-14 horas diarias los últimos 4 meses, pase de no saber siquiera que era la programación a poder desarrollar lo que mi imaginación me permita.
+### Me encuentro finalizando el cursado de un ***bootcamp intensivo de programación***:computer: al cual le dedique aproximadamente 12-14 horas diarias los últimos 4 meses, pasé de no saber siquiera que era la programación a poder desarrollar lo que mi imaginación me permita.
 
 ## Hacia donde voy?
 ### En este punto siento que puedo con todo, sin embargo se que hay mucho mas conocimiento por adquirir y eso me entusiasma! Busco un proyecto u empresa donde pueda seguir desarrollandome y *aportando valor* desde mi conocimiento y experiencia.<br>
 ### Te invito a ver alguno de los ultimos proyectos en los que estuve trabajando!  :point_down:
 
 </div>
-
-https://ibb.co/bFkD9hT
-https://ibb.co/181bWrZ
-
-https://ibb.co/NrrhMx4
