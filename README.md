@@ -44,7 +44,9 @@
 
 ## HenryStore
 
-[![HenryStore](https://img.youtube.com/vi/armv7gxWrvs/0.jpg)](https://youtu.be/armv7gxWrvs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/armv7gxWrvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="start">
 
 ### Desarrollo de un e-commerce cuyas principales features son:
 - Catálogo con filtros y búsqueda dinámica
@@ -53,6 +55,7 @@
 - Implementación de HenryCoins , una moneda cuyo valor gestiona el administrador, los usuarios pueden ganarlas mediante compras o por participación en instancias educativas y usarlas posteriormente para obtener descuentos o beneficios especiales.
 - Panel de administrador para crear, editar productos, categorías y subcategorías y además gestionar ordenes, usuarios y el panel de economía.
 - Servicio de mailing en diversas instancias.
+</div>
 
 ## Pokeweb
 
