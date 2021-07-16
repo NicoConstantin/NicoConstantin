@@ -43,8 +43,10 @@
 <div align="center">
 
 ## HenryStore
+  
+Haz Click en la imagen para ver la presentación
+[![HenryStore](https://user-images.githubusercontent.com/79233011/125873658-cb8231f3-4142-47ae-b3ec-89da96fd0cb4.jpg)](https://youtu.be/armv7gxWrvs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/armv7gxWrvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div align="start">
 
@@ -58,8 +60,10 @@
 </div>
 
 ## Pokeweb
+  
+Haz Click en la imagen para ver la presentación
+[![Pokeweb](https://user-images.githubusercontent.com/79233011/125876806-ed033a28-d2ef-4faf-b01f-2353710abe13.jpg)](https://vimeo.com/568125996 "Pokeweb")
 
-[![Pokeweb](https://res.cloudinary.com/marcomontalbano/image/upload/v1624814148/video_to_markdown/images/vimeo--568125996-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/568125996 "Pokeweb")
 
 </div>
 
