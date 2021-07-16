@@ -42,6 +42,18 @@
 ### Te invito a ver alguno de los ultimos proyectos en los que estuve trabajando!  :point_down:
 <div align="center">
 
+## HenryStore
+
+[![HenryStore](https://img.youtube.com/vi/armv7gxWrvs/0.jpg)](https://youtu.be/armv7gxWrvs)
+
+### Desarrollo de un e-commerce cuyas principales features son:
+- Catálogo con filtros y búsqueda dinámica
+- Checkout y pasarela de pagos con MercadoPago
+- Wishlist para el cliente
+- Implementación de HenryCoins , una moneda cuyo valor gestiona el administrador, los usuarios pueden ganarlas mediante compras o por participación en instancias educativas y usarlas posteriormente para obtener descuentos o beneficios especiales.
+- Panel de administrador para crear, editar productos, categorías y subcategorías y además gestionar ordenes, usuarios y el panel de economía.
+- Servicio de mailing en diversas instancias.
+
 ## Pokeweb
 
 [![Pokeweb](https://res.cloudinary.com/marcomontalbano/image/upload/v1624814148/video_to_markdown/images/vimeo--568125996-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/568125996 "Pokeweb")
