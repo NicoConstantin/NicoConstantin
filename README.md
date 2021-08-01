@@ -23,7 +23,7 @@
 <span >
 <a href="https://www.linkedin.com/in/nico-constantin/" ><img width="4.5%" src="https://i.ibb.co/gFzThH7/Dise-o-sin-t-tulo-15.png"> &nbsp;
 <a href="mailto:nicoconstantin11@gmail.com" ><img width="5%" src="https://i.ibb.co/CVx0ykg/Dise-o-sin-t-tulo-17.png">
-<a href="https://www.dropbox.com/s/hk4zb4j14u4qocz/Nicolas%20Constantin%20-%20CV%20-%20Full%20Stack%20Developer.pdf?dl=0" ><img width="5%" src="https://i.ibb.co/RScrMCW/Dise-o-sin-t-tulo-13.png">
+<a href="https://www.dropbox.com/s/awhdy9fhzuvtyif/Nicolas%20Constantin%20-%20Full%20Stack%20Developer%20-%20CV.pdf?dl=0" ><img width="5%" src="https://i.ibb.co/RScrMCW/Dise-o-sin-t-tulo-13.png">
 </span>
 
 <div style="font-family: 'Open Sans'">
