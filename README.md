@@ -1,6 +1,6 @@
-### Hello there 👋  
+## Hello there 👋  
 
-#### Full-Stack Developer based in Switzerland.  
+### Full-Stack Developer based in Switzerland.  
 
 Previously contributed to innovative digital solutions at companies like **Cloud Legion** and **MUSURE World**.
 
